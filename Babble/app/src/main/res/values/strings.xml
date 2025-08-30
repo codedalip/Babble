@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Babble</string>
+    <string name="event">Event</string>
+    <string name="edit">Edit</string>
+    <string name="updateevent">UpdateEvent</string>
+    <string name="organizing_authority">Organizing Authority</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="post_event">Post Event</string>
+    <string name="back">Back</string>
+    <string name="change_image">Change Image</string>
+    <string name="delete_post">Delete Post</string>
+    <string name="are_you_sure_you_want_to_delete">Are you sure you want to delete?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete">Delete</string>
+    <string name="select_image">Select Image</string>
+    <string name="loading_event">Loading event...</string>
+    <string name="edit_event">Edit Event</string>
+    <string name="organized_by">Organized by: %1$s</string>
+    <string name="select_date">Select Date</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_date">Change Date</string>
+</resources>
